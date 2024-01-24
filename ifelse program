@@ -1,0 +1,8 @@
+name=input("Enter your name:")
+if name=="xyz" or name=="XYZ":
+    print("name is correct")
+else:
+    print("name is not correc")
+
+
+    
